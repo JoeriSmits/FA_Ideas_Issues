@@ -1,5 +1,5 @@
 Thank you for the effort to submit an issue with the Flight-Academy Dashboard.
-Issues must be reported.
+Issues must be reported in english.
 
 ##ERRORS
 In order to understand the issue better we would like you to describe the following things in the description:
